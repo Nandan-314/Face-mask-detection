@@ -1,2 +1,2 @@
-# Face-mask-detectio
+# Face-mask-detection
 Face Mask Detection using python cnn
